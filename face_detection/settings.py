@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qzox=@_q3je)ex4sd%j_*qc2n5ok*hb%hfujfa()!4u=d!id13
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-face-detection.herokuapp.com']
 
 
 # Application definition
